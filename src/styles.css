@@ -1,0 +1,23 @@
+/* Global Styles */
+
+* {
+  font-family: "Roboto", Arial, sans-serif;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  margin: 0;
+  background: rgb(0, 24, 79);
+  background: linear-gradient(
+    0deg,
+    rgba(0, 24, 79, 1) 68%,
+    rgba(28, 109, 182, 1) 68%
+  );
+}
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
